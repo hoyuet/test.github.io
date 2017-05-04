@@ -347,7 +347,7 @@ div {
   list-style: none;
   float: left;
   box-sizing: border-box;
-  width: 3.6rem;
+  width: 50%;
   height: 3.26rem;
 }
 .container-index #main .product-new .product-new-content li.first .img-wrap {
@@ -420,7 +420,7 @@ div {
   list-style: none;
   float: left;
   box-sizing: border-box;
-  width: 3.6rem;
+  width: 50%;
   height: 3.26rem;
 }
 .container-index #main .guess-like .guess-like-content li.first .img-wrap {
